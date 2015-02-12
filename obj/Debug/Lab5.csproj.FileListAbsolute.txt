@@ -1,0 +1,8 @@
+C:\Users\Матвей\documents\visual studio 2013\Projects\VM\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Матвей\documents\visual studio 2013\Projects\VM\Lab5\bin\Debug\Input.txt
+C:\Users\Матвей\documents\visual studio 2013\Projects\VM\Lab5\bin\Debug\Lab5.exe
+C:\Users\Матвей\documents\visual studio 2013\Projects\VM\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Матвей\documents\visual studio 2013\Projects\VM\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Матвей\documents\visual studio 2013\Projects\VM\Lab5\obj\Debug\Lab5.exe
+C:\Users\Матвей\documents\visual studio 2013\Projects\VM\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Матвей\Documents\Visual Studio 2013\Projects\VM\Lab5\bin\Debug\PolStr.dll
